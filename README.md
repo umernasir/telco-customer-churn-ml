@@ -59,11 +59,4 @@ Logistic Regression achieved the strongest overall validation performance among 
 * NumPy
 * Scikit-learn
 
-## Project Structure
 
-```text
-telco-customer-churn-ml/
-├── telco_ml_assignment.py
-├── Telco-Customer-Churn.csv
-└── README.md
-```
